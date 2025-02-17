@@ -1,5 +1,4 @@
-Screenshots:
-![Screenshot 2025-02-17 114838](https://github.com/user-attachments/assets/3698d99b-b06e-40d5-a318-7cd2bc43c43d)
+ Screenshots:
 
 ![Screenshot 2025-02-17 114852](https://github.com/user-attachments/assets/1a38cee6-ce89-4af2-92bc-8d1cd8f9cee8)
 

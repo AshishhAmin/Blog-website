@@ -1,3 +1,6 @@
+# Django Blog Website
+*This blog website allows users to read, write, edit, and delete blog posts. Django, a powerful Python web framework, makes it easy to build such a site with its built-in features and modular design.*
+
 ## Screenshots:
 
 ![Screenshot 2025-02-17 114852](https://github.com/user-attachments/assets/1a38cee6-ce89-4af2-92bc-8d1cd8f9cee8)
